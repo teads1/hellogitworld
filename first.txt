@@ -2,6 +2,8 @@ This is my first file to commit!
 
 This is a 2nd line...!
 
+This is a 3rd line...!
+
 This is the first patch release.
 
 This is the first e-release.
